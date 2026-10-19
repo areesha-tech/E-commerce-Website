@@ -1,16 +1,35 @@
-# React + Vite
+# 🛍️ E-Commerce Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern and responsive e-commerce website designed to provide a smooth online shopping experience. Users can browse products, explore collections, and enjoy a clean and user-friendly interface.
 
-Currently, two official plugins are available:
+## ✨ Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+* 🛒 **Product Browsing:** Explore products with an attractive layout.
+* 📱 **Responsive Design:** Works across desktop, tablet, and mobile devices.
+* 🎨 **Modern UI:** Clean design with a user-friendly interface.
+* 🏷️ **Product Details:** Display product images, names, and prices.
+* ⚡ **Fast Performance:** Lightweight and optimized frontend.
 
-## React Compiler
+## 🛠️ Technologies Used
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+* JS
+* Tailwind
+* React
 
-## Expanding the ESLint configuration
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 💻 GitHub Repository
+(https://github.com/areesha-tech/E-commerce-Website)
+
+## 🎯 Purpose
+
+This project was created to practice frontend development, improve web design skills, and build a responsive e-commerce interface using HTML, CSS, and JavaScript.
+
+## 👨‍💻 Author
+
+**AreeshaKhan**
+
+* GitHub:(https://github.com/areesha-tech)
+
+
+
+⭐ If you like this project, consider giving it a star!
